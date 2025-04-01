@@ -55,4 +55,4 @@ jobs:
           app-name: 'sounakdotnetapp'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7A1CD3692985463A9FD1EE2FD3665AD8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_959184EF1C084F1C962BC1003B4656C6 }}
